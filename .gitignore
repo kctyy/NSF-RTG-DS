@@ -1,0 +1,15 @@
+# Data files — stored in Google Drive, not in repo
+*.npz
+*.npy
+*.csv
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
